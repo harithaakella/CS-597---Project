@@ -1,0 +1,27 @@
+Homework 2 		CS 497/597 - Enterprise Web Development 		BSU Fall 2015 
+
+1 Project Checkpoints 
+
+You are required to create four discrete checkpoints for your semester project. Time management is an important part of long-term projects. The graduate students of this class are developing this skill as they work on their thesis. If you save most of the work until the end, you will not succeed. Estimation is an important skill you must learn in industry, so we will practice for the semester-long project. Agile development methodologies espouse a concept of dividing work into chunks called sprints. A sprint is an arbitrary length of time, typically a number of weeks. You have roughly 12 weeks left until your project is due. We will break the time into four three-week sprints. 
+I will hold you accountable to these checkpoints. 
+(a)	Formulate a plan for the following checkpoint dates:
+
+Oct 08, what new functionality or technical hurdle will you have complete?
+
+I shall complete my research on Code Igniter framework that I shall be using in my project.
+I shall configure the database and apache webserver and define the Model view and controller and test the working.
+I shall create the blue print of my website and at high level define the various sections.
+I shall begin working on the employer website home page.
+
+
+Oct 22, what new functionality or technical hurdle will you have complete?
+I shall complete creating a few web pages and work on styling the same.
+
+Nov 12, what new functionality or technical hurdle will you have complete? 
+I shall now work on the integration with LinkedIn and hosting my website.
+
+Dec 03, what new functionality or technical hurdle will you have complete? By this point, your project should meet your initial requirements.   
+My website shall be fully functional with the web URL available to the public.
+
+(b)	 Check in a digital copy of your plan to your GitHub repo
+Checkin the same.
