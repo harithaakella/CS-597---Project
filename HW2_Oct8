@@ -1,0 +1,25 @@
+(a)	Formulate a plan for the following checkpoint dates:
+
+Oct 08, what new functionality or technical hurdle will you have complete?
+
+I shall complete my research on Code Igniter framework that I shall be using in my project.
+  -> As mentioned I have completed researching on CodeIgniter Framework
+  
+  ************************************************************************************************************************
+I shall configure the database and apache webserver and define the Model view and controller and test the working.
+-> I am using WAMPSERVER with mysql db and apache wbserver!
+I have defined the basic Model View and Controller classes and was successful in implementing the basic GUI 
+in MVC framework on Codeigniter
+  ************************************************************************************************************************
+
+I shall create the blue print of my website and at high level define the various sections.
+-> I have managed to create a basic blueprint , and shall further modify accordingly in the future.
+************************************************************************************************************************
+
+I shall begin working on the employer website home page.
+->I have created the home page but may have to further refactor my code based on future needs.
+************************************************************************************************************************
+
+To Conclude : My project is going according to plan so far ! I have no roadblocks and am working towards checkpoint2
+
+Thank you!
